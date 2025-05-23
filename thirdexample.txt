@@ -1,1 +1,5 @@
 addthird example text
+
+we are creating examples of using GIT!
+
+
